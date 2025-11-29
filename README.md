@@ -1,4 +1,4 @@
-# Licence plate object detection
+# Book Recommender System
 
 ## Table of Contents
 - [Description](#description)
@@ -7,8 +7,7 @@
 - [Author](#author)
 
 ## Description
-This is one of my project in university. The goal of this project is to make a regression deep learning model that can predict the bounding box of license plates on cars.
-
+This is one of my personal project. The project is aimed to recommend some books base on sematic search and filter
 ![](book_recommender_demo.png)
 
 ## Data source
